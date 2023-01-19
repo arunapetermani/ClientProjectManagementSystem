@@ -95,6 +95,9 @@ Logger logger = LoggerFactory.getLogger(ClientController.class);
             .body(clientDetail);
     }
 
+    //adding new method
+    //story 123
+
 }
 
    /* @PostMapping(value = "/registerNewClient" ,consumes =  {MediaType.MULTIPART_FORM_DATA_VALUE, MediaType.APPLICATION_JSON_VALUE},
